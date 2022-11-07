@@ -41,9 +41,11 @@ You can click the Preview link to take a look at your changes.
 <div>
 <h3 dir="auto"><a id="user-content-bar_chart-github-stats--" class="anchor" aria-hidden="true" href="#bar_chart-github-stats--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"><img class="emoji" alt="bar_chart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji> GitHub Stats:
 <div dir="auto"><br>
-<a href="https://github.com/ErikZFerraz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikZFerraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikZFerraz&layout=compact&langs_count=7&theme=dark"/>
+
+<div dir="auto">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErikZFerraz&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikZFerraz&amp;layout=compact&amp;theme=dark" style="max-width: 100%;">
 </div>
+
 <!---<img src="https://activity-graph.herokuapp.com/graph?username=ErikZFerraz&amp;theme=xcode" style="max-width: 100%;">--->
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ErikZFerraz/ErikZFerraz/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/ErikZFerraz/ErikZFerraz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
