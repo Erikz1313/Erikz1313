@@ -8,13 +8,29 @@
 
 Erikz1313/Erikz1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 <img src="https://readme-typing-svg.herokuapp.com/?color=000000&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO,+MY+NAME+is+Erik+Zanetti;I'm+22+years+old;I'm+from+Brazil;I'm+Studying+Systems+Development;Be+Welcome!+:%29" style="max-width: 100%;">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23B836F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=500&amp;height=65&amp;lines=HELLO,+MY+NAME+is+Erik+Zanetti;I'm+22+years+old;I'm+from+Brazil;I'm+Studying+Systems+Development;Be+Welcome!" style="max-width: 100%;">
+
+--->
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=2500&pause=900&color=000000&center=true&multiline=true&width=1000&height=135&lines=HELLO,+MY+NAME+is+Erik+Zanetti;I'm+Studying+Systems+Development;Be+Welcome!" alt="Typing SVG" /></a>
 
 
 <!---<h1 dir="auto"><a id="user-content-earth_americas-hello-world" class="anchor" aria-hidden="true" href="#earth_americas-hello-world"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png"><img class="emoji" alt="earth_americas" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png"></g-emoji> Hello World!</h1>--->
+
 <h1></h1>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif><img src=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" width="250" align="right" data-animated-image="" data-canonical-src="https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" style="max-width: 100%;"></a></p>
+
+<details align="right">
+  <summary><h> |Don't press here|  <h></summary>
+<div dir="auto">
+  <div  align="right">|Coding→Brain on fire|</div>
+  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif><img src=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" width="250" align="right" data-animated-image="" data-canonical-src="https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" style="max-width: 100%;"></a></p>
+
+
+<div dir="auto">
+</div></a></div></details>
+
+      
 
 <h3 dir="auto"><a id="user-content-iphone-social" class="anchor" aria-hidden="true" href="#iphone-social"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"></g-emoji> Social:</h3>
 <p dir="auto">
@@ -42,10 +58,11 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto"><a id="user-content-bar_chart-github-stats--" class="anchor" aria-hidden="true" href="#bar_chart-github-stats--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"><img class="emoji" alt="bar_chart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji> GitHub Stats:
 <div dir="auto"><br>
 
-<div dir="auto">
+<div align="center" dir="auto">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErikZFerraz&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikZFerraz&amp;layout=compact&amp;theme=dark" style="max-width: 100%;">
 </div>
-
+<div align="center" dir="auto">
 <!---<img src="https://activity-graph.herokuapp.com/graph?username=ErikZFerraz&amp;theme=xcode" style="max-width: 100%;">--->
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ErikZFerraz/ErikZFerraz/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/ErikZFerraz/ErikZFerraz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+</div>
