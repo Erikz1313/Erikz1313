@@ -1,10 +1,14 @@
 
+
+
 <!---
 - 👋 Hi, I’m @ErikZFerraz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+☢
+<img class="emoji" alt="radioactive" height="20" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/radioactive_2622-fe0f.png" style="max-width: 100%;">
 
 Erikz1313/Erikz1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,10 +25,23 @@ You can click the Preview link to take a look at your changes.
 <h1></h1>
 
 <details align="right">
-  <summary><a> <a text_color="red" >|Don't press here|  </a> </summary>
-<div dir="auto">
-  <div  align="right">|Coding→Brain on fire|</div>
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer" href=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif><img src=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" width="250" align="right" data-animated-image="" data-canonical-src="https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" style="max-width: 100%;"></a></p>
+  <summary> 
+    <table align="right">
+  <thead >
+    <tr>
+      <td><b>٩(>.<)٩|Don't press here|(¬‿¬)</b></td>
+    </tr>
+  </tbody>
+</table>
+    <!---<h1 style="color: red;">|Don't press here|</h1>--->
+ </summary>
+  <div dir="auto">
+    <p>
+    <img class="emoji" alt="new" height="20" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" style="max-width: 100%;">
+      <p>
+     <!---<p  align="right">|Coding→Brain on fire|</p>--->
+  
+  <div dir="auto"><a target="_blank" rel="noopener noreferrer" href=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif><img src=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" width="250" align="right" data-animated-image="" data-canonical-src="https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" style="max-width: 100%;"></a></div>
 
 
 <div dir="auto">
