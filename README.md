@@ -37,9 +37,10 @@ You can click the Preview link to take a look at your changes.
  </summary>
   <div dir="auto">
     <p>
-    <img class="emoji" alt="new" height="20" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" style="max-width: 100%;">
+    🔥
       <p>
-     <!---<p  align="right">|Coding→Brain on fire|</p>--->
+<!---<img class="emoji" alt="new" height="20" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" style="max-width: 100%;">
+    <p  align="right">|Coding→Brain on fire|</p>--->
   
   <div dir="auto"><a target="_blank" rel="noopener noreferrer" href=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif><img src=https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" width="250" align="right" data-animated-image="" data-canonical-src="https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif" style="max-width: 100%;"></a></div>
 
