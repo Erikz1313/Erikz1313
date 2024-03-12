@@ -8,6 +8,22 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ☢
+
+
+
+<div align="center" dir="auto">
+
+<a href="https://www.linkedin.com/in/erik-zanetti-ferraz-09895a180/" rel="nofollow"><img src="https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/erikzanetti8/" rel="nofollow"><img src="https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&amp;to=erikzanetti13@gmail.com&amp;su=&amp;body=&amp;bcc=&amp;tf=cm" rel="nofollow"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> 
+<a href="https://discord.com/users/750842234819313704" rel="nofollow"><img src="https://camo.githubusercontent.com/930f7883dc43ea38dc8674fdbde77875993b0cdd011318fb4268dfb3f3bcb185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a> 
+
+</div>
+
+
+
+
+
 <img class="emoji" alt="radioactive" height="20" width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/327/radioactive_2622-fe0f.png" style="max-width: 100%;">
 
 Erikz1313/Erikz1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
